@@ -8,6 +8,6 @@ export const platforms: { id: Platform; name: string; url: string }[] = [
 ];
 
 export const googleMapsLinks: Record<Route, string> = {
-  Classic: 'https://www.google.com/maps/place/Taipei+Nightlife:+Classic+Taipei+Pub+Crawl+Meeting+Point+-+TourMeAway/@25.063075,121.5200959,17z/data=!4m8!3m7!1s0x3442abc653c6ca77:0x35d1bc7beac9b63f!8m2!3d25.063075!4d121.5200959!9m1!1b1!16s%2Fg%2F11dymc10yq?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D',
-  Xinyi: 'https://www.google.com/maps/place/Taipei+Nightlife:+Taipei+101+Xinyi+Pub+Crawl+Meeting+Point+-+TourMeAway/@25.0408368,121.5654133,17z/data=!3m1!5s0x3442abbbe4fa26dd:0x84e2168294d5e1dd!4m8!3m7!1s0x3442ab8a0ea6b565:0x4d3754940d48fce7!8m2!3d25.0408368!4d121.5654133!9m1!1b1!16s%2Fg%2F11vt83hb6m?entry=ttu&g_ep=EgoyMDI2MDcwOC4wIKXMDSoASAFQAw%3D%3D',
+  Classic: 'https://search.google.com/local/writereview?placeid=ChIJd8rGU8arQjQRP7bJ6nu80TU',
+  Xinyi: 'https://search.google.com/local/writereview?placeid=ChIJZbWmDoqrQjQR5_xIDZRUN00',
 };
